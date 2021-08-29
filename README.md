@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nivedita</h1>
-<h3 align="center">Undergraduate student in computer science with AI</h3>
+<h3 align="center">Undergraduate student in Computer Science with AI</h3>
 
 - 📫 How to reach me **niveditarajesh36@gmail.com**
 
