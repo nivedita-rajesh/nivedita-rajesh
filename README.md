@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hola, I'm Nivedita Rajesh</h1>
 <h4 align="center">Undergrad doing Computer Science with AI</h4>
-<h5 align="center">@ Amrita Vishwa Vidhyapeetham, Amritapuri</h5>
+<h5 align="center" >@ <em>Amrita Vishwa Vidhyapeetham, Amritapuri</em></h5>
 <br>
 
 🔭 I’m currently working on ML projects and Full Stack Development<br>👯 I’m looking to collaborate on some Front-end projects.<br>🤝 I’m looking for help with my JS knowledge<br>🌱 I’m currently learning backend using Django framework.<br>💬 Ask me about my life out of the computer world<br>📫 How to reach me: niveditarajesh36@gmail.com<br>⚡ Fun fact: Works out algorithm best when AFK :)
