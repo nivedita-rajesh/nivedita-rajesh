@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hola, I'm Nivedita Rajesh</h1>
+<h2 align="center">Hola, I'm Nivedita Rajesh</h2>
 <h4 align="center">Undergrad doing Computer Science with AI</h4>
 <h5 align="center" >@ <em>Amrita Vishwa Vidhyapeetham, Amritapuri</em></h5>
 <br>
